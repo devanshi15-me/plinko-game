@@ -1,1 +1,1 @@
-# plinko-game
+# Box Class
